@@ -17,3 +17,6 @@ body {
   justify-content: center;
   align-items: center;
 }
+form{
+  padding-top: 20px;
+}
